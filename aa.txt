@@ -5,11 +5,8 @@ iiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiii 222222222222
 iiiiiiiiiiiiiiiiiiiiiii 333333333333
-<<<<<<< HEAD
 iiiiiiiiiiiiiiiiiiiiiii master branch
 iiiiiiiiiiiiiiiiiiiiiii hot-fix branch
-=======
 iiiiiiiiiiiiiiiiiiiiiii hot-fix branch2
->>>>>>> hot-fix
 iiiiiiiiiiiiiiiiiiiiiii
 iiiiiiiiiiiiiiiiiiiiiii
